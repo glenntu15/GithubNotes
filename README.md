@@ -19,15 +19,15 @@ git push -u origin main
 ```
 …or import code from another repository
 ## To update the local folder from a repo
-...
+'''
 git pull 
 
-...
+'''
 or
-...
+'''
 git pull orgin main
 
-...
+'''
 ## How to merge branches in GitHub
 
 1. Navigate to your repository, then find and click the Pull requests button. It should be in between the Issues and Actions buttons. You’ll see a summary of all pull requests you have pending.
